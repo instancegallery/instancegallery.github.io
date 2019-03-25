@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Elronet Monospace";
-    src: url("../fonts/Elronmonospace.ttf");
+    font-family: "Assistant Regular";
+    src: url("../fonts/assistant/Assistant-Regular.otf");
 }
 
 html,
@@ -9,7 +9,8 @@ body {
     border: none;
     padding: 0;
     background: #fff;
-    font-family: "Elronet Monospace";
+    font-family: "Assistant Regular";
+    line-height: 1.3em;
 }
 
 header a {

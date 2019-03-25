@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "Elronet Monospace";
+    src: url("../fonts/Elronmonospace.ttf");
+}
+
+html,
+body {
+    margin: 0;
+    border: none;
+    padding: 0;
+    background: #fff;
+    font-family: "Elronet Monospace";
+}
+
+header a {
+    text-decoration: none;
+    color: #000;
+}
+
+header {
+    display: flex;
+    margin: 1rem 1rem 0 1rem;
+}
+
+header h1 {
+    margin: 0;
+}
+header nav {
+    flex-grow: 1;
+    align-self: end;
+}
+
+header nav a {
+    color: gray;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    justify-content: right;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 1rem;
+}
+
+main {
+    margin: 5rem auto;
+    width: 60%;
+}
+
+@media screen and (max-width: 800px) {
+    header {
+        display: block;
+    }
+    header ul {
+        flex-wrap: wrap;
+    }
+    main {
+        width: auto;
+        margin-top: 2rem;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+}

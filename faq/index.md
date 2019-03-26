@@ -4,13 +4,13 @@ title: FAQ
 
 ### Table of Contents
 
-* [How does Instance Gallery work?](#how-does-instance-gallery-work)
+* [What is Instance Gallery?](#what-is-instance-gallery)
 * [Why this rather than something on the public Internet?](#why-this-rather-than-something-on-the-public-internet)
 * [Are there any fees or costs associated with the Residency program?](#are-there-any-fees-or-costs-associated-with-the-residency-program)
 
-### How does Instance Gallery work?
+### What is Instance Gallery?
 
-This is a very unconventional structure, so let us walk you through it.
+Instance Gallery is a quasidigital art space focusing on photographic work. 
 
 The Internet as we know it (the thing you're using to read this right now) is actually just a bunch of computers that are all connected in a giant network—or series of networks—that span the globe. We call this the "public Internet."
 
@@ -27,6 +27,10 @@ Instance Gallery is a gallery that exists *solely* on an extranet, which is made
 Firstly, Instance Gallery takes advantage of already existent autonomous digital infrastructure as it continues to grow within NYC. In part, Instance Gallery is part of a much larger project with which it shares a vision, though its goals as an artist space are its own.
 
 Secondly, the Internet offers exposure on a global scale, but this is not generally the goal of most residency programs; it is not the goal of Instance Residency, either. It is the mission of Instance to support artists working within photographic media by creating space for those artists to work in the vicinity of one another via semi-private space. At the same time, cultivating a serious external audience to the work produced by the residents.
+
+## How does the Instance Residency work?
+
+> TK-TODO
 
 ## Are there any fees or costs associated with the Residency program?
 

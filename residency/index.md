@@ -16,4 +16,8 @@ The end of each residency will culminate in some type of in-person event in New 
 
 ## Apply
 
-Instance is not currently accepting residency applications, but you are still welcome to apply for a future residency period via our [application form]().
+**Application Due Date:** To Be Determined
+
+**Application Cycle Status:** Instance is not currently accepting residency applications, but you are still welcome to apply for a future residency period.
+
+[Click here to proceed to the application form.]({{ "/application-info" | relative_url }})

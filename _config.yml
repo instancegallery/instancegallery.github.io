@@ -41,3 +41,13 @@ defaults:
           path: ""
       values:
           layout: default
+
+# Residency application datetime variables.
+application_deadline:
+  applications_open:  2019-03-30 00:00:00 -0400
+  applications_close: 2019-05-30 00:00:00 -0400
+  next_deadline: 2019-08-30 00:00:00 -0400
+
+# Residency application general information. 
+application_info:
+  current_cycle: Fall 2019

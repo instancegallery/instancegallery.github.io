@@ -4,11 +4,19 @@ title: Application info
 
 ## Status:
 
-**Current Cycle:** None
+**Current Cycle:** {{ site.application_info.current_cycle }}
 
-**Current Status:** Accepting applications for Fall 2019
+**Current Status:**  {% if site.application_deadline.applications_open %} Accepting applications for {{ site.application_info.current_cycle }}
+{% else %}
+Not currently accepting applications at this time.
+{% endif %}
 
-**Next Application Deadline:** May 30th, 2019 at 12:00AM EST
+{% if site.application_deadline.applications_open %}
+**Next Application Deadline:** 
+{{ site.application_deadline.applications_close | date: "%A, %B %e %Y %l:%M %p" }}
+{% else %}
+We are not currently accepting applications at this time. Check back on {{ site.application_deadline.next_deadline| date: "%A, %B %e %Y %l:%M %p" }} for the next cycle application.
+{% endif %}
 
 ---
 

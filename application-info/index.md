@@ -2,6 +2,16 @@
 title: Application info
 ---
 
+## Status:
+
+**Current Cycle:** None
+
+**Current Status:** Accepting applications for Fall 2019
+
+**Next Application Deadline:** May 30th, 2019 at 12:00AM EST
+
+---
+
 # Apply for the Instance Residency Program
 
 Thank you for your interest in the Instance Residency program! Before you proceed to the application form, please take a moment to review the following information. Please be aware that by applying to the Instance Residency, you acknowledge that you understand and agree by the terms set forth below. 
@@ -28,8 +38,19 @@ In short, we expect all residents to follow these main guidelines, and reserve t
 
 * Residents may *not* post works to the residency space as well as to public online channels, including social media and the artists' websites, until after the end of the residency.
 * Instance Gallery will never request any kind of copyright control over the works produced and shared within the residency.
-* Residents extend temporary permission to Instance Gallery to post the works to our servers. Any work may be removed at any time per the residents' request. The digital space is for residents' use and creative expansion first and foremost.
+* Residents extend temporary permission to Instance Gallery to post the works to the node servers. Any work may be removed at any time per the residents' request. The digital space is for residents' use and creative expansion first and foremost.
+* Any projects during the course of the residency will seek explicit permission for the reproduction of any images created on the part of the artist. **Instance Gallery respects the rights of artists to their work.** We will never publish anything without your permission.
 
 ## Termination Agreement
 
 The Termination Agreement for Instance Residency is simply this: should any resident be found in violation of the Code of Conduct or the Code of Operations, they will have their digital studio key permanently revoked, and they will not be permitted to engage in any future Residency cycles or to use any Instance services. Instance Gallery does not maintain responsibility to explain beyond a default termination notification, nor attempt to reform a resident's behavior. In the event that a resident must be removed, that resident will be replaced with another applicant on the waiting list. By applying to the Residency, you agree to these conditions.
+
+## Application Process
+
+To apply for the Instance Residency, you will need to submit a completed application form, which includes submitting five (5) works for review via this form.
+
+**Please ensure you have reviewed all of the above information. By submitting an application form, you agree to all of the terms described above.**
+
+Ready?
+
+[Click here to go to the application form.](https://docs.google.com/forms/d/e/1FAIpQLSfDTm42rFmGq4PSEhWqTiw0rxOJrg0aRNB_YI1rna3rpCj9sQ/viewform?usp=sf_link)

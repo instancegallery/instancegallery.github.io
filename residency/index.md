@@ -2,6 +2,18 @@
 title: Instance Residency Program
 ---
 
+## Status:
+
+**Current Cycle:** None
+
+**Current Status:** Accepting applications for Fall 2019
+
+**Next Application Deadline:** May 30th, 2019 at 12:00AM EST
+
+---
+
+# Instance Residency Program
+
 The Instance Residency is a free residency program that takes place partly in digital spaces and partly in physical spaces throughout New York City.
 
 Residents may participate from any part of the world, but all in-person locations and events take place in New York.

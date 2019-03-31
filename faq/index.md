@@ -32,7 +32,7 @@ Want to host a node? You can do this from anywhere on Earth. See our [Host page]
 
 ## What is the Instance Residency?
 
-Instance Residency is a free quasidigital photographic artist residency open to any artist working in a photographic medium anywhere in the world. that lasts three months at a time. This Residency is what mainly populates the Gallery. Residency cycles last three months, during which time, five to eight photographers are invited to the semi-private digital space to share their works-in-progress and to share ideas. At the end of each cycle, the residency culminates in some type of final event, either a gallery exhibition, artist talk, or similar. See more on the [Residency page]({{ "/residency/" | relative_url }}).
+Instance Residency is a free quasidigital photographic artist residency open to any artist working in a photographic medium anywhere in the world. This Residency is what mainly populates the Gallery. Residency cycles last three months, during which time, five to eight photographers are invited to the semi-private digital space to share their works-in-progress and to share ideas. At the end of each cycle, the residency culminates in some type of final event, either a gallery exhibition, artist talk, or similar. See more on the [Residency page]({{ "/residency/" | relative_url }}).
 
 ## How does the Instance Residency work?
 

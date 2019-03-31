@@ -28,7 +28,7 @@ In other words, one computer at one location and another computer at another loc
 
 Instance Gallery is a gallery that exists *solely* on an extranet, which is made up of several computers that are connected together at various venues throughout New York City. However, remember that because the extranet is *not* directly accessible from the public Internet, it *cannot be accessed via the Internet*. This means you cannot simply go to "somewhere.com" as you normally might for a website on the public Internet in order to access the digital residency space. Instead, you must physically visit one of the locations that act as host venues for &ldquo;nodes,&rdquo; which is what we call each computer connected inside the gallery network.
 
-Want to host a node? You can do this from anywhere on Earth. See our [Host page]({{ "/host/" | relative_url }})for more information.
+Want to host a node? You can do this from anywhere on Earth. See our [Host page]({{ "/host/" | relative_url }}) for more information.
 
 ## What is the Instance Residency?
 
